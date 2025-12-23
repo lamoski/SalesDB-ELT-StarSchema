@@ -53,13 +53,15 @@ For example:
 
 ---
 
-## 📌 Learning Outcomes
+## 📌 What I Learned
 
-By completing this project, you will:
-1. Design a professional ELT pipeline in SQL.
-2. Create a clean star schema for BI reporting.
-3. Apply data validation, surrogate keys, and indexing strategies.
-4. Build reusable queries for performance analysis.
+By completing this project, I learned how to:
+
+- Design a professional ELT pipeline in SQL  
+- Build a clean star schema for BI reporting  
+- Apply data validation, surrogate keys, and indexing strategies  
+- Write reusable, performance‑oriented SQL queries  
+
 
 ---
 
