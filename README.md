@@ -67,8 +67,12 @@ By completing this project, you will:
 
 ### ETL Flow Diagram
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lamoski/SalesDB-ELT-StarSchema/refs/heads/main/ETL.drawio.png" width="600">
+  <img src="https://github.com/lamoski/SalesDB-ELT-StarSchema/blob/main/ELT%20DIAGRAM.drawio.png?raw=true" width="600">
 </p>
+
+
+
+
 
 
 
