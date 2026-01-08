@@ -20,7 +20,7 @@ This project showcases a complete ELT (Extract, Load, Transform) pipeline and di
 
 ### **Extract & Load**
 - Raw data is imported into `raw_data.Sales_Staging`.
-- Temporary import table is dropped after loading.
+- The temporary import table is dropped after loading.
 
 ### **Data Validation**
 - Row count validation.
