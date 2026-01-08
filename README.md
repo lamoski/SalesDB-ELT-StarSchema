@@ -97,4 +97,3 @@ The queries within this project answer critical business questions, such as:
 - **What trends do sales revenues follow over time (monthly)?**
 - **What products are fast-growing or underperforming?**
 
-These insights empower stakeholders to make data-driven decisions.
